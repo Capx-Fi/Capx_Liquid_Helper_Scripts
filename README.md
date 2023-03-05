@@ -9,11 +9,18 @@ These python scripts helps in converting a basic vesting sheet with address,star
 1. python
 2. pip
 
+### Library 
+1. Panda
+2. Datetime
+3. csv
+
+
 ### Initial Steps
 - Install python and pip 
 - Install dependencies using requirement.txt
 - Ensure your vesting excel sheet/CSV file is in the prescribed format refer sample input file : sample_input.xlsx
-- Change the file path at line  :
+- Change the file path at line 7 : excel_sheet = "your sheet path"
+- run by using command python3 convert_file.py 
 
 
 
