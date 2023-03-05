@@ -1,7 +1,7 @@
 # Capx_Liquid_Helper_Scripts
 Helper scripts to convert vesting excel file to capx liquid compatible excel
 
-![Website](https:liquid.capx.fi)
+## 🌎 [Capx Liquid](https://liquid.capx.fi)
 
 These python scripts helps in converting a basic vesting sheet with address,start_date,end_date,allocation to various vesting schedule type example: linear,quadratic etc.
 
